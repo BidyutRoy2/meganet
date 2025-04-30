@@ -31,10 +31,12 @@ cd meganet
 npm install
 ```
 
+3. Open Meganet Dashboard (CTRL+SHIFT+C) & `Network` & Reload Page
+
 ![image](https://github.com/user-attachments/assets/c9c086e6-f7b2-4a63-ad7b-fafebf748f65)
 
 
-3. Create a `config.txt` file in the root directory with your wallet information:
+4.  Config File With Your Address & ID - (CTRL+X+Y+ENTER) To Save
 ```
 nano config.txt
 ```
@@ -55,23 +57,6 @@ The bot will automatically:
 - Join the bandwidth sharing channel
 - Periodically check and update your point statistics
 - Display your current point status in the console
-
-## How to Get Your Wallet Information
-
-1. Log in to your Meganet account at [https://meganet.app](https://meganet.app)
-2. Navigate to your profile or wallet section
-3. Your wallet address will be displayed on the page
-4. The wallet ID can be found in the URL when viewing your wallet details or in network requests
-
-## Troubleshooting
-
-If you encounter any issues:
-
-1. Ensure your `config.txt` file is properly formatted
-2. Check that your wallet address and ID are correct
-3. Make sure you have an active internet connection
-4. Try restarting the bot
-5. Check for any updates to the repository
 
 ## Disclaimer
 
