@@ -22,7 +22,7 @@ This bot allows you to automatically participate in Meganet's bandwidth sharing 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/airdropinsiders/Meganet-Auto-Bot.git
+git clone https://github.com/BidyutRoy2/meganet.git
 cd meganet
 ```
 
