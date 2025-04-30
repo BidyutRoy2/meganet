@@ -31,6 +31,9 @@ cd meganet
 npm install
 ```
 
+![image](https://github.com/user-attachments/assets/c9c086e6-f7b2-4a63-ad7b-fafebf748f65)
+
+
 3. Create a `config.txt` file in the root directory with your wallet information:
 ```
 nano config.txt
@@ -73,11 +76,3 @@ If you encounter any issues:
 ## Disclaimer
 
 This bot is provided for educational purposes only. Use at your own risk. The developers are not responsible for any potential issues that may arise from using this bot, including but not limited to account restrictions, loss of points, or any other negative consequences.
-
-## License
-
-MIT License
-
----
-
-© 2024 Airdrop Insiders
