@@ -27,19 +27,23 @@ cd meganet
 ```
 
 2. Install dependencies:
-```bash
+```
 npm install
 ```
 
 3. Create a `config.txt` file in the root directory with your wallet information:
 ```
-WALLET_ADDRESS=your_wallet_address_here
-WALLET_ID=your_wallet_id_here
+nano config.txt
+```
+
+```
+WALLET_ADDRESS=Your EVM Wallet Address
+WALLET_ID=Your Wallet ID
 ```
 
 Start the bot
 
-```bash
+```
 npm start
 ```
 
